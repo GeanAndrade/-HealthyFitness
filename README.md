@@ -1,7 +1,7 @@
 ﻿# -HealthyFitness
 ##
 
-- Projeto criado em Conjunto Com @GeanAndrade para colocar em pretica conhecimentos de HTML, CSS e GIT.
+- Projeto criado em Conjunto @GeanAndrade e @PedroHenrique99 para colocar em pratica conhecimentos de HTML, CSS e GIT.
 - Feito com CSS Puro.
 - Com Futura atualização para ser Responsivo.
 
